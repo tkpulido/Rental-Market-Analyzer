@@ -6,6 +6,7 @@ In order to run this code you will need to import pandas, hvplot.pandas, and Pat
 
 ## Installation Guide
 This is how to import the necessary libraries and dependencies:
+
 <img width="425" alt="Screen Shot 2021-11-07 at 3 50 00 PM" src="https://user-images.githubusercontent.com/89439442/140666556-53d26c84-7900-4f35-a5a0-58878ca1aed0.png">
 
 ## Usage
